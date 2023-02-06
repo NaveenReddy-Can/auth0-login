@@ -13,6 +13,7 @@ html {
 main {
   padding: 1rem;
   min-height: 100vh;
+  background-color: #5f2525;
 }
 
 article {
